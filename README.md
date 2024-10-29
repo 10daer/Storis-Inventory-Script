@@ -38,7 +38,7 @@ This documentation details my implementation of an automated product matching sy
                   │ Integration Layer├┘
                   └────────┬────────┘
                            │
-                  ┌────────┴────────┐
+                  ┌────────┴────────┐ 
                   │ Product Matcher  │
                   │    Database     │
                   └────────┬────────┘
